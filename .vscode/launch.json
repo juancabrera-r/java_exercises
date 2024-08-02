@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IVACalc",
+            "request": "launch",
+            "mainClass": "IVACalc",
+            "projectName": "tokio_projects_eb040991"
+        },
+        {
+            "type": "java",
             "name": "Notas",
             "request": "launch",
             "mainClass": "Notas",
