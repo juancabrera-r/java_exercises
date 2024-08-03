@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProgramaManejoDeNombres",
+            "request": "launch",
+            "mainClass": "ProgramaManejoDeNombres",
+            "projectName": "tokio_projects_eb040991"
+        },
+        {
+            "type": "java",
             "name": "factura",
             "request": "launch",
             "mainClass": "factura",
