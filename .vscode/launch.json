@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ordenarNumero",
+            "request": "launch",
+            "mainClass": "ordenarNumero",
+            "projectName": "tokio_projects_eb040991"
+        },
+        {
+            "type": "java",
             "name": "ProgramaManejoDeNombres",
             "request": "launch",
             "mainClass": "ProgramaManejoDeNombres",
