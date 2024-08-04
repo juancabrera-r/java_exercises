@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "depositoEstado",
+            "request": "launch",
+            "mainClass": "depositoEstado",
+            "projectName": "tokio_projects_eb040991"
+        },
+        {
+            "type": "java",
             "name": "ordenarNumero",
             "request": "launch",
             "mainClass": "ordenarNumero",

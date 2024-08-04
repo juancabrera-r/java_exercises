@@ -33,7 +33,6 @@ public class ordenarNumero {
             numbers[iteration] = getNumber();
         }
 
-
         System.out.println(numbers[0] > numbers[1] ? numbers[0] + " > " + numbers[1]: numbers[1] + " > " + numbers[0]);
         
     }
